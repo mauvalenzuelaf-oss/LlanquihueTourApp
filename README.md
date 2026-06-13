@@ -61,7 +61,7 @@ El proyecto aplica conceptos fundamentales de programación orientada a objetos,
 
 ## 📄 Formato del archivo de datos
 
-El archivo tours.txt se encuentra dentro de la carpeta resources y contiene los datos separados por punto y coma ;.
+El archivo tours.txt se encuentra dentro de la carpeta resources y contiene los datos separados por punto y coma (;).
 
 Cada línea debe seguir el siguiente formato:
 
