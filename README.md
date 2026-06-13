@@ -15,13 +15,13 @@ El sistema permite cargar información desde un archivo de texto, convertir cada
 
 Los tipos de tour considerados en el proyecto son:
 
-Rutas gastronómicas
+1. Ruta gastronómica
 
-Paseos lacustres
+2. Paseo lacustre
 
-Excursiones culturales
+3. Excursion cultural
 
-Tours personalizados
+4. Tour personalizado
 
 El proyecto aplica conceptos fundamentales de programación orientada a objetos, manejo de archivos, uso de colecciones, conversión de objetos a texto y separación lógica del código en paquetes.
 
