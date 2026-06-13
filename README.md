@@ -69,7 +69,9 @@ nombre;tipo;ubicacion;precioAdulto
 
 Ejemplo:
 
+```plaintext
 Ruta Gastronómica de Frutillar;rutas gastronomicas;Frutillar;15000
+```
 
 ---
 
