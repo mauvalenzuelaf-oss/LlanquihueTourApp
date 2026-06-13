@@ -9,7 +9,7 @@
 ---
 
 ## 📘 Descripción general del sistema
-Este proyecto corresponde a la Evaluación Fomativa N° 3 de la asignatura *Desarrollo Orientado a Objetos I*. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es gestionar un catálogo básico de destinos turísticos de la agencia *Llanquihue Tour*.
+Este proyecto corresponde a la Evaluación Formativa N° 3 de la asignatura *Desarrollo Orientado a Objetos I*. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es gestionar un catálogo básico de destinos turísticos de la agencia *Llanquihue Tour*.
 
 El sistema permite cargar información desde un archivo de texto, convertir cada línea del archivo en un objeto de la clase Tour, almacenar los objetos en una colección dinámica ArrayList y recorrer la colección para mostrar todos los tours disponibles. Además, se aplica una búsqueda mediante bucles para filtrar tours según su tipo.
 
@@ -113,7 +113,7 @@ Nombre: Ruta Gastronómica de Frutillar | Tipo: rutas gastronomicas | Ubicación
 Nombre: Sabores del Lago Llanquihue | Tipo: rutas gastronomicas | Ubicación: Puerto Varas | Precio: $18000
 ```
 
-**Repositorio GitHub:** https://github.com/mauvalenzuelaf-oss/sistema-llanquihue-tour-java
+**Repositorio GitHub:** https://github.com/mauvalenzuelaf-oss/LlanquihueTourApp.git
 
 **Fecha de entrega:** 15/06/2026
 
