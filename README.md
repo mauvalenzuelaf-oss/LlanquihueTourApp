@@ -69,7 +69,7 @@ nombre;tipo;ubicacion;precioAdulto
 
 Ejemplo:
 
-Ruta Gastronómica de Frutillar;rutas gastronomicas;frutillar;15000
+Ruta Gastronómica de Frutillar;rutas gastronomicas;Frutillar;15000
 
 ---
 
@@ -95,14 +95,14 @@ resources/tours.txt
 
 ```plaintext
 ===== CATÁLOGO DE DESTINOS TURÍSTICOS LLANQUIHUE TOUR =====
-Nombre: Ruta Gastronómica de Frutillar | Tipo: rutas gastronomicas | Ubicación: frutillar | Precio: $15000
-Nombre: Sabores del Lago Llanquihue | Tipo: rutas gastronomicas | Ubicación: puerto varas | Precio: $18000
-Nombre: Paseo Lacustre Puerto Varas | Tipo: paseos lacustres | Ubicación: puerto varas | Precio: $22000
-Nombre: Museo Colonial Alemán | Tipo: excursiones culturales | Ubicación: frutillar | Precio: $12000
+Nombre: Ruta Gastronómica de Frutillar | Tipo: rutas gastronomicas | Ubicación: Frutillar | Precio: $15000
+Nombre: Sabores del Lago Llanquihue | Tipo: rutas gastronomicas | Ubicación: Puerto Varas | Precio: $18000
+Nombre: Paseo Lacustre Puerto Varas | Tipo: paseos lacustres | Ubicación: Puerto Varas | Precio: $22000
+Nombre: Museo Colonial Alemán | Tipo: excursiones culturales | Ubicación: Frutillar | Precio: $12000
 
 ===== LISTA DE RUTAS GASTRONÓMICAS =====
-Nombre: Ruta Gastronómica de Frutillar | Tipo: rutas gastronomicas | Ubicación: frutillar | Precio: $15000
-Nombre: Sabores del Lago Llanquihue | Tipo: rutas gastronomicas | Ubicación: puerto varas | Precio: $18000
+Nombre: Ruta Gastronómica de Frutillar | Tipo: rutas gastronomicas | Ubicación: Frutillar | Precio: $15000
+Nombre: Sabores del Lago Llanquihue | Tipo: rutas gastronomicas | Ubicación: Puerto Varas | Precio: $18000
 ```
 
 **Repositorio GitHub:** https://github.com/mauvalenzuelaf-oss/sistema-llanquihue-tour-java
