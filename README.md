@@ -51,17 +51,11 @@ El proyecto aplica conceptos fundamentales de programación orientada a objetos,
 
 ## 🧩 Organización por paquetes
 
-1. model: Contiene la clase que representa el modelo principal del sistema.
+1. model: Contiene la clase Tour.java que representa el modelo principal del sistema. Esta clase representa un tour turístico y contiene atributos como nombre, tipo, ubicación y precio para adulto.
 
-Tour.java: Clase que representa un tour turístico. Contiene atributos como nombre, tipo, ubicación y precio para adulto.
+2. data: Contiene la clase GestosDatos.java, encargada de trabajar con los datos externos del sistema. Esta clase es responsable de leer el archivo tours.txt, separar los datos de cada línea y crear objetos de tipo Tour.
 
-2. data: Contiene la clase encargada de trabajar con los datos externos del sistema.
-
-GestorDatos.java: Clase responsable de leer el archivo tours.txt, separar los datos de cada línea y crear objetos de tipo Tour.
-
-3. ui: Contiene la clase principal del programa.
-
-Main.java: Clase que ejecuta el sistema, carga la lista de tours, muestra el catálogo completo y filtra los tours por tipo.
+3. ui: Contiene la clase principal del programa (Main.java). La clase principal ejecuta el sistema, carga la lista de tours, muestra el catálogo completo y filtra los tours por tipo.
 
 ---
 
@@ -76,9 +70,6 @@ nombre;tipo;ubicacion;precioAdulto
 Ejemplo:
 
 Ruta Gastronómica de Frutillar;rutas gastronomicas;frutillar;15000
-Paseo Lacustre Puerto Varas;paseos lacustres;puerto varas;22000
-Museo Colonial Alemán;excursiones culturales;frutillar;12000
-Tour Familiar Personalizado;tours personalizados;puerto varas;35000
 
 ---
 
