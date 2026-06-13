@@ -65,7 +65,9 @@ El archivo tours.txt se encuentra dentro de la carpeta resources y contiene los 
 
 Cada línea debe seguir el siguiente formato:
 
+```plaintext
 nombre;tipo;ubicacion;precioAdulto
+```
 
 Ejemplo:
 
