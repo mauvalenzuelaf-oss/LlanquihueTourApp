@@ -76,14 +76,18 @@ Ruta Gastronómica de Frutillar;rutas gastronomicas;Frutillar;15000
 ## ⚙️ Instrucciones para clonar y ejecutar el proyecto
 
 1. Clona el repositorio desde GitHub:
+```plaintext
 git clone https://github.com/mauvalenzuelaf-oss/LlanquihueTourApp.git
+```
 
 2. Abre el proyecto en IntelliJ IDEA.
 
 3. Verifica que la estructura del proyecto contenga las carpetas src y resources.
 
 4. Confirma que el archivo tours.txt esté ubicado en:
+```plaintext
 resources/tours.txt
+```
 
 5. Ejecuta el archivo Main.java desde el paquete ui.
 
