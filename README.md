@@ -19,7 +19,7 @@ Los tipos de tour considerados en el proyecto son:
 
 2. Paseo lacustre
 
-3. Excursion cultural
+3. Excursión cultural
 
 4. Tour personalizado
 
